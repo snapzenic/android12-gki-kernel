@@ -3,6 +3,7 @@
  * Copyright (c) 2019 Amlogic, Inc. All rights reserved.
  */
 
+#include <linux/compat.h>
 #include <linux/cdev.h>
 #include <linux/types.h>
 #include <linux/fs.h>
